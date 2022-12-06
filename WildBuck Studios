@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Wild Buck Studios</title>
+</head>
+<style>
+body {
+background: #AB8329;
+margin:0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px;
+  overflow: hidden;
+  background-color:black;
+}
+
+li {
+  display:inline;
+
+}
+
+a {
+  background-color: black;
+  padding:7px 7px;
+  font-family:verdana;
+  font-size: 20px;
+}
+
+a:link {
+  color: white;
+  text-decoration:none;
+}
+
+
+
+a:visited {
+  color: white;
+  text-decoration:none;
+}
+
+a:hover {
+  color: #AB7226;
+  text-decoration:none;
+  background-color: black;
+  border-bottom: 5px solid white;
+
+}
+
+a:active {
+  color: white;
+  text-decoration:none;
+}
+
+
+img {
+  padding: 1px 15px;
+  float: left;
+  background: black
+}
+
+
+
+</style>
+
+<img src=https://browningammo.com/-/media/Project/BrowningAmmo/Homepage-Spotlight/logo-deer-3x.ashx height=63><ul>
+  
+  <li><a href="personalproject.html">Home</a></li>
+  <li><a href="fl.html">Films</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>
+
+
+</html>
